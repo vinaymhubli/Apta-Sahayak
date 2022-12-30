@@ -1,8 +1,8 @@
 # Apta-Sahayak🗣️
 It allows the user to enter text & that text will be translated into 9 different Indian languages, When the user on any desired translated language button they can able to listen to the text in that particular language
 # Technical Outline 📕
-❶ email passwordless authentication\
-❷ phone passwordless authentication\
+❶ passwordless email authentication\
+❷ phone authentication\
 ❸ splashscreen page\
 ❹ translator
 # Vedio Preview
